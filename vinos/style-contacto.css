@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    
+    width: 100%;
+    height: 350px;
+    background-color: black;
+    
+}
+body{
+    background-color: rgb(139, 4, 4);
+}
+#menu ul{
+    list-style: none;
+    
+}
+#menu li{
+    float: left;
+}
+
+#menu a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 12px 35px;
+    font-size: 20px;
+}
+#menu{
+    background: rgb(54, 54, 54);
+    width: 100%;
+    height: 50px;
+}
+.barra{
+    color: white;
+    font-size: 40px;
+}
+
+.cont{
+    
+    height: 100%;
+    width: 450px;
+    padding: 0px 80px;
+    
+    top: 400px;
+}
+
+.cont h2{
+color: white;
+font-size: 60px;
+background: rgb(80, 9, 9);
+text-align: center;
+}
+.cont h4{
+color: rgb(196, 72, 72);
+background: rgb(104, 35, 35);
+font-size: 30px;
+text-align: center;
+}
+.cont .desc{
+color: white;
+font-size: 35px;
+background: rgb(80, 9, 9);
+height: 500px;
+text-align: center;
+
+}
+.contacto{
+    padding: 0px 700px;
+    position: absolute;
+    top: 450px;
+}
+.contacto h1{
+    color: white;
+    font-size: 60px;
+
+}
+.contacto p{
+    color: rgb(241, 177, 177);
+    font-size: 20px;
+}
+.contacto .controles{
+    width: 400px;
+    height: 20px;
+}
+.contacto .controles-2{
+    height: 200px;
+    width: 500px;
+}
+
+ 
+  
+  .contacto input:invalid:required {
+    background-image: linear-gradient(to right, pink, rgb(241, 88, 88));
+  }
+  input:focus:invalid {
+    box-shadow: none;
+  }
+  
+   .contacto input:valid {
+    border: 2px solid black;
+  }
+.contacto span{
+    color: white;
+}
+.contacto .boton{
+    margin: 0px 200px;
+    width: 100px;
+    height: 30px;
+    background: brown;
+    color: white;
+    font-weight: bold;
+    border-color: white;
+}
+
+footer{
+
+    float: unset;
+    background-color:rgb(56, 9, 9) ;
+    width: 100%;
+    height: 250px;
+    border: 1px solid white;
+    
+    
+}
+footer ul{
+    list-style: none;
+    margin: 30px 50px;
+}
+
+footer a{
+    color: rgb(116, 114, 114);
+    text-decoration: none;
+    display: block;
+    padding: 12px 35px;
+    font-size: 20px;
+}
+footer li{
+    float: left;
+    text-decoration: none;
+}
