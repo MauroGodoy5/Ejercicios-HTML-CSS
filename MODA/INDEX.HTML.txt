@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <header class="header">
+            <h1 class="titulo">Magazine</h1>
+            <h3 class="subtitulos">Nuestra revista</h3>
+            <nav id="menu">
+                <ul>
+                    <li><a href="#">MODA</a>
+                        <ul>
+                            <li>lo mejor</li>
+                        </ul>
+                    </li>
+                    <li><a href="#">BELLEZA</a>
+                        <ul>
+                            <li>lo mas</li>
+                        </ul>
+                    </li>
+                    <li><a href="#">FITNESS</a>
+                        <ul>
+                            <li>gym</li>
+                        </ul>
+                    </li>
+                    <li><a href="#">IMAGEN</a>
+                        <ul>
+                            <li>nosotras</li>
+                        </ul>
+                    </li>
+                    
+                    <li><hr align="left" width="100" color="yellow"></hr><a id="home"href="#" style="color:yellow">HOME</a>
+                        <ul>
+                            <li>inicio</li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+
+        </header>
+                    
+                            <div class="imagen">
+                                <div class="imagen-p"><img src="images/1710520604-Marcas_De_Moda_Mujer.jpg" alt="" height="500"></div>
+
+                            </div>
+                        
+                        <aside class="aside">
+                            <h1>Nuestros sponsors</h1>
+                            <hr align="left" width="250"></hr>
+                                <div class="p-imagen"></div>
+                            <img src="images/imagesCAX2O64G.jpg" alt="">
+
+                            <div class="group-image">
+                                <img src="images/images2.jpg" alt="">
+                                <img src="images/imagesCAD2PR1L.jpg" alt="" width="150">
+                                <img src="images/imagesCAW6YIGP.jpg" alt="">
+                                <img src="images/imagesCAMPD2K2.jpg" alt="" width="150">
+                                <img src="images/imagesCA86GVD4.jpg" alt="" width="130" height="100">
+                                <img src="images/imagesCA1A7Z42.jpg" alt="" width="150">
+                            </div>
+                        </aside>
+
+                        <div class="contenedor_principal">
+                            <h1>CLASICOS!</h1>
+                            <hr align="left" width="1500"></hr>
+                            <div class="contenedor_imagen_texto">
+                                <div class="imagen"><img src="images/imagesCAMSAYX1.jpg" height="200" width="200"></div>
+                                <div class="texto">Trate bien a sus pies.Años de uso y abuso pueden maltratarlos.
+                                    Los pies tambien pueden ser maltratados por las enfermedades,
+                                    la mala circulacion,las uñas mal cortadas y el uso de zapatos que no calzan bien <p class="rojo">mas>></p> </div>
+                                </div>
+
+                                <div class="contenedor_imagen_texto">
+                                    <div class="imagen"><img src="images/imagesCA0FPZ0G.jpg" height="200" width="200"></div>
+                                    <div class="texto">Los recogidos y semirecogidos,son los peinados de fiesta mas usuaales a los que una mujer suele
+                                                    recurrir en este 2011 para conseguir looks y elegantes y a la moda en una ocasion especial de la gala ya tenga un pelo rizado,ondulado o liso.
+                                                    <p class="rojo">mas>></p></div>
+                                    </div>
+
+                                    <div class="contenedor_imagen_texto">
+                                        <div class="imagen"><img src="images/imagesCANEKK9K.jpg" height="200" width="200"></div>
+                                        <div class="texto">los labios son una de las partes mas eroticas de nuestro cuerpo.
+                                            Los usamos cuando hablamos,comemos y besamos,sin pretenderlo transmiten nuestra feminidad y sensulidad.
+                                            Es por esta razon que el lapiz labial es el producto de belleza mas vendido. <p class="rojo">mas>></p></div>
+                                        </div>
+
+                            <h1>Tips a tener en cuenta</h1>
+                            <hr align="left" width="1500"></hr>
+                                <div class="imagen-ojo">
+                                    <img src="images/imagesCAER3PZV.jpg" alt="">
+                                </div>
+                            <p class="titulo-p1">maquillaje para ojos</p>
+                            <br>
+                            <p class="descripciones-p1">Maquillarse correctamente es una tarea compleja que no todas las mujeres dominan, ya que combinar los colores y aplicar el tono que tu piel necesita es un trabajo
+                                que requiere de tiempo y dedicacion.Si estas pensando en como conseguir maquillarte bien y en sacarte el maximo partido,
+                                sigue leyendo nuestro especial maquillaje.
+                            </p>
+                            <p class="link">leer nota completa>></p>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <hr align="left" width="1500"></hr>
+                            <div class="imagen-bron">
+                            <img src="images/imagesCA1SNOO2.jpg" alt="">
+                            </div>
+                            <p class="titulo-p2">Maquillaje para que perdure el bronceado</p>
+                            <br>
+                            <p class="descripciones-p2">Maquillaje para que perdure el bronceado...con bases,cremas y rubores tostados,
+                            todoesto ayuda para que puedas lucir por mas tiempo un bronceado invidiable.A continuacion, maquillaje...</p>
+                            <p class="link">ver nota completa>></p>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <hr align="left" width="1500"></hr>
+                        </div>
+                    <footer class="footer">
+                        <div class="bloque-izquierdo">
+                        <h1>LA UTLIMA MODA!</h1>
+                        <hr align="left" width="500"></hr>
+                        <br>
+                        <img src="images/imagesCARL1T1A.jpg" alt="">
+                        <p class="descripcion-f"> rompe la monotonia de los colores <br> de apagados y aburridos y llena tu armario del color de moda de este verano 2011: <br> el naranja.
+                            ¡no te pierdas la galeria! moda en color naranja.. leer nota>></p>
+                        </div>
+
+                        <div class="bloque-central">
+                        <h1 id="centro">HOROSCOPO</h1>
+                        <hr align="left" width="500"></hr>
+                        <br>
+                        <img src="images/imagesCAG8QC8D.jpg" alt="">
+                        <img src="images/imagesCAAZZCTY.jpg" alt="">
+                        <img src="images/imagesCARNLD4S.jpg" alt="">
+                        <img src="images/imagesCAT0OUSY.jpg" alt="">
+                        <img src="images/imagesCA91HTV3.jpg" alt="">
+                        <img src="images/imagesCA5AWBST.jpg" alt="">
+                    </div>
+
+                    <div class="bloque-derecho">
+                        <H1 id="derecha">CONTACTENOS</H1>
+                        <hr align="left" width="500"></hr>
+                        <br>
+                        <p>razon social</p>
+                        <p>direccion:....</p>
+                        <p>ciudad:...</p>
+                        <p>CP:...</p>
+                        <P>tel:xxxxxxxxxxxxxx</P>
+                        <p>fax:xxxxxxxxxxxxxx</p>
+                        <p>email:info@gmail.com</p>
+                        <p>Link: <p class="contacto">mi empresa</p> </p>
+                    </div>
+                    
+                
+
+
+                    </footer>
+</body>
+</html>
+
+
+
+
+
